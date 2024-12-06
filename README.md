@@ -8,7 +8,7 @@
 </head>
 <style>
 /* Стили пиши здесь :) */
-
+    h1{color:red}
 </style>
 <body>
     <img src='/uploads/2023/02/donut.png'>
